@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">USSD</string>
+    <string name="beeline">Beeline</string>
+    <string name="ums">UMS</string>
+    <string name="ucell">Ucell</string>
+    <string name="uzmobile">Uzmobile</string>
+</resources>
